@@ -1,0 +1,6 @@
+framework module Pods_CoApp {
+  umbrella header "Pods-CoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

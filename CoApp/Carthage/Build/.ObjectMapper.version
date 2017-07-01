@@ -1,0 +1,10 @@
+{
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "commitish" : "2.2.5",
+  "iOS" : [
+    {
+      "name" : "ObjectMapper",
+      "md5" : "353ea6f60c77e82e29c7a74ea6d85ab8"
+    }
+  ]
+}

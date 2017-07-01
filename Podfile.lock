@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Cloudinary (2.0.1):
+    - Alamofire (~> 4.1)
+  - Gloss (1.2.1)
+  - ImagePicker (2.0.0)
+
+DEPENDENCIES:
+  - Cloudinary (~> 2.0)
+  - Gloss (~> 1.2)
+  - ImagePicker
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Cloudinary: c5e197d94ed36be5831901a0e197fea1505ea75b
+  Gloss: 9ab33b8ede01e4232571d43a6bf9259b85d1de69
+  ImagePicker: 81175d36c2852cb543cb4f5d6c19e28f3e8d90eb
+
+PODFILE CHECKSUM: bd5616f24416475b47e4a371b2ddd80c49f58167
+
+COCOAPODS: 1.2.0
